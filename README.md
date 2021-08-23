@@ -14,7 +14,7 @@
   ## Installation
   To install, download the folder containing this code, open in terminal, and ensure that all necessary packages are included by running "npm i".
   ## Usage
-  This app is free to use for anyone who would like to automatically generate a README file. To begin, run "node index.js" in your terminal, after you have installed the packages, and answer the questions as prompted. [View demo](https://drive.google.com/file/d/165s7k5aNt_3ZmyTqacbI007DlUpWSsas/view)
+  This app is free to use for anyone who would like to automatically generate a README file. To begin, run "node index.js" in your terminal, after you have installed the packages, and answer the questions as prompted. [View usage demo](https://drive.google.com/file/d/165s7k5aNt_3ZmyTqacbI007DlUpWSsas/view)
   ## Contribution
   I am not currently seeking contributors, but please feel free to e-mail me if you have any questions or encounter any problems. 
   ## License
